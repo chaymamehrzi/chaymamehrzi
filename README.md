@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chayma Mehrzi</h1>
+<h1 align="center">Hi 👋, I'm Chaima Mehrzi</h1>
 <h3 align="center">A passionate software engineering student specialized in Fullstack web development.</h3>
 
 - 🔭 I’m currently working on **enhancing my experience background and look for end of study internship.**
